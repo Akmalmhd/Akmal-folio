@@ -28,7 +28,7 @@ const Header = () => {
       whileInView={{opacity:1}}
       transition={{duration:0.6, delay: 0.7}}
       className='max-w-2xl mx-auto font-Ovo'>
-        I am a frontend developer and graphic designer from Kerala, India, Who is specialized in UI, frontend designing and Branding.
+        I am a frontend developer and graphic designer from Kerala, India, Who is specialized in UI, frontend designing and Branding..
       </motion.p>
 
       <div className='flex flex-col sm:flex-row items-center gap-4 mt-6'>
